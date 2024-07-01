@@ -1,0 +1,7 @@
+[package]
+name = "fix_links"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+promptly = "0.3.1"
